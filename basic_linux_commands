@@ -1,0 +1,2 @@
+// scp in same network
+scp Documents/catkin_ws/src/interiit21/script/2vid_cv_brg.py ajax@192.168.0.123:~/Downloads/interiit_ws/scripts/
